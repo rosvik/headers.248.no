@@ -1,5 +1,5 @@
 {
-  "name": "headers-248-no",
+  "name": "http-248-no",
   "version": "0.0.0",
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230115.0",
