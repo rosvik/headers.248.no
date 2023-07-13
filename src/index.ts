@@ -26,7 +26,7 @@ export default {
       },
     };
 
-    return new Response(JSON.stringify(data, null, 2), {
+    return new Response(JSON.stringify(data, null, 2) + "\n", {
       headers: {
         "content-type": "application/json;charset=UTF-8",
       },
