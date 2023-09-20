@@ -14,4 +14,4 @@ This is the project files for [http.248.no](https://http.248.no), a super simple
 2. Authenticate `wrangler login`
 3. `wrangler deploy`
 
-<div align="right"><img src="public/favicon.svg" width="32" alt="248"></div>
+<div align="right"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/1774972/269361517-d0d8e30e-4a25-4ba2-b926-2a42da1156f8.svg" width="32" alt="248"></div>
